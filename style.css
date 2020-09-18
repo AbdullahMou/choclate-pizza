@@ -134,7 +134,7 @@ h2 {
 
 #cball {
     display: inline-block;
-    background-image: url(/img/list-bg.png);
+    background-image: url(img/list-bg.png);
     width: 80%;
     height: 200px;
     background-repeat: no-repeat;
