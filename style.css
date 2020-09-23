@@ -145,6 +145,10 @@ h2 {
     margin-top: 50px;
 }
 
+input[type=checkbox]:checked+label {
+    text-decoration: line-through;
+}
+
 footer {
     margin-top: 20px;
     height: 80px;
