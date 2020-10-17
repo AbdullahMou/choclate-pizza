@@ -206,6 +206,11 @@ h3 {
     width: 20%;
 }
 
+#ps p {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
 footer {
     height: 80px;
     display: block;
